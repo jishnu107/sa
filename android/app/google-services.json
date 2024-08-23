@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828889808530",
+    "project_id": "myfire-eaa07",
+    "storage_bucket": "myfire-eaa07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828889808530:android:5c14ca72c8349a4c5ab04b",
+        "android_client_info": {
+          "package_name": "com.example.firebas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCayO55mHcEJ-McIeWR0Mk1UqMH7YcmHjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
